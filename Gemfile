@@ -38,3 +38,8 @@ gem 'unicorn'
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+# Support Heroku
+gem 'rails_12factor'
+
+# Ruby version
+ruby '2.1.5'
